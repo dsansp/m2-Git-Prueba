@@ -8,6 +8,7 @@ public class M2GitPruebaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(M2GitPruebaApplication.class, args);
-	}
+		System.out.println("prueba");	}
+
 
 }
